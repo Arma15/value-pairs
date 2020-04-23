@@ -1,0 +1,9 @@
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\bin\Debug\csv tester.exe.config
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\bin\Debug\csv tester.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\bin\Debug\csv tester.pdb
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv tester.csprojAssemblyReference.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv_tester.Properties.Resources.resources
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv tester.csproj.GenerateResource.cache
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv tester.exe
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv tester.pdb
+C:\Users\3D Infotech.3DCA-LY520-12\source\repos\csv tester\csv tester\obj\Debug\csv_tester.CSVWriter.resources
